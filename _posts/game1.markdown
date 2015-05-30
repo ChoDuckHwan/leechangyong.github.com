@@ -1,7 +1,5 @@
 
-<html>
-<body>
-<EMBED SRC ="https://www.youtube.com/embed/7ldavNKB3YA?list=PL3YB7_Xq8qPgcB6Viq1ittfvT3XLFUnWo" width="560" height="315">
 
-</body>
-</html>
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7ldavNKB3YA?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
