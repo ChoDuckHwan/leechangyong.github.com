@@ -12,6 +12,6 @@ categories: jekyll update
 ---
 <html>
 <body>
-<img src="https://www.dropbox.com/home?select=%EC%A4%91%EA%B8%89%EC%9E%90%EC%9A%A9%EB%9D%BC%EC%BC%93.jpg#!/home?preview=%EB%9D%BC%EC%BC%93%EC%82%AC%EC%A7%841.jpg" />
+<img src="http://kinimage.naver.net/20130110_257/1357779883025aUHDs_GIF/2013-01-10-04;08;09.gif" />
 </body>
 </html>
