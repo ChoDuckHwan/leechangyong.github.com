@@ -1,3 +1,3 @@
+<p>블록 태그 안에서는 **마크다운**을 사용할 수 없습니다.</p>
 
-<object width="640" height="360" src="https://www.youtube.com/embed/7ldavNKB3YA?feature=player_embedded" frameborder="0" allowfullscreen></object>
-
+<span>인라인 태그 안에서는 **마크다운**을 사용할 수 있습니다.</span>
