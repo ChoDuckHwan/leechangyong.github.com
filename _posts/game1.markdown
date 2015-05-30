@@ -1,3 +1,2 @@
-**피어나(가인)** 뮤직 비디오
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/K64mb5KUhhs" frameborder="0" allowfullscreen></iframe>
+: youtube : http://www.youtube.com/watch?v=JfMBcIVU6Rw
+: vimeo : http://vimeo.com/87939713
