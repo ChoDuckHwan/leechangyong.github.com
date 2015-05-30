@@ -7,7 +7,7 @@
 <img src="http://postfiles11.naver.net/20150530_218/ioio9961_1432975756992cij3q_JPEG/%C1%DF%B1%DE%C0%DA%BF%EB%B6%F3%C4%CF.jpg?type=w3" />
 </div>
 
-<a href="http://www.badmintonmarket.co.kr/front/productdetail.php?productcode=047005006000000011&code=047002001000&sort=">사러가기 </a>
+<a href="http://www.badmintonmarket.co.kr/front/productdetail.php?productcode=047005006000000011&code=047002001000&sort=" Traget="_blank">사러가기 </a>
 
 </body>
 </html>
