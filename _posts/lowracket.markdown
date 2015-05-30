@@ -6,6 +6,6 @@
 <div>
 <img src="http://postfiles13.naver.net/20150530_108/ioio9961_1432975754592riEdp_JPEG/%B6%F3%C4%CF%BB%E7%C1%F81.jpg?type=w3" />
 </div>
-<a href ="http://www.badmintonmarket.co.kr/front/productdetail.php?productcode=047001001003000037&code=047002003000&sort=">사러가기</a>
+<a href ="http://www.badmintonmarket.co.kr/front/productdetail.php?productcode=047005006000000011&code=047002001000&sort=">사러가기</a>
 </body>
 </html>
